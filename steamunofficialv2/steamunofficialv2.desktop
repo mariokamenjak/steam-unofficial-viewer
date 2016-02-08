@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=steamunofficialv2
+Exec=qmlscene $@ Main.qml
+Icon=steamunofficialv2.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

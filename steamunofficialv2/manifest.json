@@ -1,0 +1,15 @@
+{
+    "name": "com.ubuntu.developer.mkamenjak77.steamunofficialv2",
+    "description": "description of steamunofficialv2",
+    "architecture": "all",
+    "title": "steamunofficialv2",
+    "hooks": {
+        "steamunofficialv2": {
+            "apparmor": "steamunofficialv2.apparmor",
+            "desktop": "steamunofficialv2.desktop"
+        }
+    },
+    "version": "0.27",
+    "maintainer": "Mario Kamenjak <mkamenjak77@gmail.com>",
+    "framework": "ubuntu-sdk-15.04"
+}
